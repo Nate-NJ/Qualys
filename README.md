@@ -1,5 +1,5 @@
 # Qualys Vulnerability Management HomeLab
- ### [Video Demonstration](https://www.loom.com/share/60a8d19134794321ae40ea8c001a5337?sid=8b2610fa-5cb1-420e-b749-c78f318be88e)
+
 <h2>Description</h2>
 This is my first home lab project in existence. In this project, I used a Qualys Virtual Scanner appliance on the Qualys Cloud Platform to scan for vulnerabilities on a Windows 10 virtual machine, using Oracle VM Virtual Box. I purposely installed outdated versions of VLC and Firefox to test if the Qualys scanner could pick up those vulnerabilities. To begin the process I started off with a non-credential scan and finished it off with a credential scan to show the difference in results. After scanning the environment with credentials,  I discovered VLC and Firefox vulnerabilities. Shortly after I began to remediate the vulnerabilities by uninstalling VLC and Firefox. Finally, I performed another scan to verify my results. 
 

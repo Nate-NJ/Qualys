@@ -1,4 +1,3 @@
-# Qualys
 # Qualys Vulnerability Management HomeLab
  ### [Video Demonstration](https://www.loom.com/share/60a8d19134794321ae40ea8c001a5337?sid=8b2610fa-5cb1-420e-b749-c78f318be88e)
 <h2>Description</h2>
